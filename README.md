@@ -9,6 +9,11 @@ The Current methods of regulation are more driven from command and control appro
 
 ## Objective 
 
- - To ensure that rules that 
+ - To provide a mechanism to ensure consensus that rules laid down by regulator are adhered by participants on collectively.
 
 ## Axioms 
+
+ - Relies on underlying structure of blockchains and smart contracts. 
+
+
+ 
